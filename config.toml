@@ -1,4 +1,4 @@
-baseURL = "https://www.yokeap.github.io/"
+baseURL = "https://yokeap.github.io/"
 languageCode = "en-us"
 title = "Praxive Dynamic"
 theme = "hugo-hero-theme"
