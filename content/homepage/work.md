@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Everything has solutions'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/robot-hand.png'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+ไม่เพียงแค่เชี่ยวชาญแต่ระบบ Machine Vision เท่านั้น บริการทางด้าน Electronics เช่น ออกแบบ PCB รวมถึงไปถึงบริการ Software ต่างๆ เช่น Dashboard หรือ GUI Automated Overiden ที่สำคัญยินดีให้คำปรึกษาภาค SME เพื่อหา Solution ที่เหมาะสมกับงบประมาณได้ เพื่อขับเคลื่อนภาค SME ไทยก้าวไปสู่ Digital ได้
